@@ -1,2 +1,2 @@
-Alguns exemplos dos princípios SOLID [ Design Patterns ] em Java.
+Alguns exemplos dos princípios SOLID em Java.
 
